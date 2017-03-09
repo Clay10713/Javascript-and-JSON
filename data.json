@@ -1,0 +1,206 @@
+{ "wrestlers" : [
+  {
+    "name":"AJ Styles",
+    "shortname":"AJ_Styles",
+    "reknown":"The Phenomenal One",
+    "bio":"While he is full of himself, no one can deny Styles’ ability. Known all over the world for his in-ring expertise, exhilarating aerial maneuvers and supreme confidence, Styles has been a househould name everywhere he’s traveled, assembling an spectacular résumé, capped off by sports-entertainment's most prestigious title, the WWE Championship. Despite his stupendous talent, his often deceitful tactics have overshadowed his accomplishments on more than one occasion."
+  },
+  {
+    "name":"Alexa Bliss",
+    "shortname":"Alexa_Title",
+    "reknown":"Little Miss Bliss",
+    "bio":"It almost doesn’t seem believable that so much bad temper can fit into a 5-foot-1 frame. Smart-alecky, saucy and sporting a whole lot of savagery, Alexa has been a relentless competitor her entire life, exceeding especially in gymnastics, and eventually becoming a Division I cheerleader. Now a member of the SmackDown roster and having rised to the top of its Women’s division, Alexa looks to keep her SmackDown Women's Championship to continue her dominance."
+  },
+  {
+    "name":"American Alpha",
+    "shortname":"American_Alpha",
+    "reknown":"Grand Amplitude",
+    "bio":"A former state champion in high school, Chad Gable (pictured left) has reached the pinnacle of amateur grappling in 2012, claiming victory in the U.S. Olympic Trials and earning the right to compete at the London Olympics. Coming from the Indiana University, where he wrestled and became a three-time NCAA national qualifier at the Division I level, Jason Jordan (pictured right) knows how to excel. Between Jordan’s explosive power and devastating suplexes, and Gable’s silky-smooth technique, American Alpha is ready to show the world what they’re made of."
+  },
+  {
+    "name":"Apollo Crews",
+    "shortname":"Apollo_Crews",
+    "reknown":"Uhaa Nation",
+    "bio":"Naming yourself after the Greek god Apollo sets one hell of a bar, but it’s fair to say Apollo Crews may well clear it when all is said and done. Possessed of an Olympian physique and agility, the hulking Crews combines the raw power of The Ultimate Warrior with the agility of  a top cruiserweight, confounding opponents with a ground-and-pound game and dizzying aerial attack. He was already the proverbial five-tool player when he went from the independent scene to WWE NXT, and his astounding record at Full Sail sent the Georgia native to the main WWE roster within a year of his debut."
+  },
+  {
+    "name":"Baron Corbin",
+    "shortname":"Baron_Corbin",
+    "reknown":"Lone Wolf",
+    "bio":"While it may be a stretch to say he’s from hell, you can forgive his opponents for thinking the self-proclaimed “Lone Wolf” has sent them there once he gets rolling. A former NFL player whose aggression got him booted from the game, Corbin found the perfect outlet for his rage in WWE, and the perfect target for it in, well, anyone and everyone who crossed his path. Less a Superstar than a force of nature, Corbin made his mark on The Grandest Stage of Them All when he eliminated Kane from the third annual Andre the Giant Memorial Battle Royal to stake his claim as the legendary giant’s heir apparent."
+  },
+  {
+    "name":"Becky Lynch",
+    "shortname":"Becky_Lynch",
+    "reknown":"Lass Kicker",
+    "bio":"Trained for the squared circle at the age of 15, Lynch travelled the world perfecting her craft before joining NXT in 2014. While proving she could hold her own in the squared circle, Becky forged various friendships during her time at NXT, including one with Bayley and another with Sasha Banks. Eventually, Becky shocked the WWE Universe when she joined WWE’s roster as part of the “Divas Revolution” – a member of Team P.C.B. (with Charlotte and Paige). Paige soon broke off from her friends, but Becky continued to be a star on the rise, culminating in her crowning as the first-ever SmackDown Women's Champion at Backlash 2016."
+  },
+  {
+    "name":"Bray Wyatt",
+    "shortname":"Bray_Wyatt",
+    "reknown":"Eater of Worlds",
+    "bio":"A man shrouded in mystique, he has made it his mission to bring his macabre vision to WWE. No matter how cryptic his message might be to the WWE Universe on a given day, The New Face of Fear has made it clear that he aims to lead his flock in search of some sort of a higher purpose. And from the moment The Eater of Worlds set foot in WWE, he and his followers would not disappoint, exuding an eerie and dangerous presence as they offered a very succinct message to all opposition: “Run!” Where will the scourge of Bray Wyatt take him next? Only the buzzards know for sure. "
+  },
+  {
+    "name":"Carmella",
+    "shortname":"Carmella",
+    "reknown":"Princess of Staten Island",
+    "bio":"A former NFL and NBA dancer, the self-titled Princess of Staten Island has the athletic abilities to make her dreams a reality, and on SmackDown's Womens division, she has the perfect stage on which to do so. Carmella was working as a hairdresser until an unfortunate incident involving her friends Enzo Amore & Big Cass, a bucket of hair-removal cream and a client's prized poodle culminated in the beauty being out of a job. Now a staple of SmackDown, Carmella is looking to take another unlikely beginning and turn it into a rousing success. Simply put, the princess has eyes on the throne."
+  },
+    {
+    "name":"Curt Hawkins",
+    "shortname":"Curt_Hawkins",
+    "reknown":"Fact",
+    "bio":"“Winners never quit, quitters never win, and people who never quit and never win get beat by … Curt Hawkins.” Cue the explosion. Since returning to WWE as part of the SmackDown roster in 2016, Hawkins has been peddling larger-than-life “facts” to the audience (example: Time waits for no man. Except Curt Hawkins.) while promising to shake up The New Era. That, as you may imagine, is a fact."
+  },
+    {
+    "name":"Daniel Bryan",
+    "shortname":"Daniel_Bryan",
+    "reknown":"YES!",
+    "bio":"They say that some men are destined for greatness, but there is an argument to be made that Daniel Bryan is one of the few who was literally chosen for it. A slew of injuries forced him to vacate the WWE World Heavyweight Title in 2014 and, later, the Intercontinental Championship he won upon his return in 2015. Ultimately, Bryan formally announced his retirement from in-ring competition, citing the cumulated effects of several concussions he'd sustained over his career. He's currently the SmackDown General Manager and there's nothing stopping him from taking SmackDown to new heights every Tuesday."
+  },
+    {
+    "name":"Dean Ambrose",
+    "shortname":"Dean_Ambrose",
+    "reknown":"The Lunatic Fringe",
+    "bio":"Dean Ambrose is a dangerous man. Through his years toiling away in obscurity, Ambrose competed in some of the most vicious environments imaginable, sacrificing his body and blood in the pursuit of inflicting as much damage on his opponent as humanly possible. Victory was incidental. What mattered to Ambrose was always his message: No one is safe. This unpredictable nature proved virtually unstoppable and allowed Ambrose to capture the Money in the Bank briefcase and the WWE Heavyweight Title in one night at WWE Money in the Bank 2016."
+  },
+    {
+    "name":"Dolph Ziggler",
+    "shortname":"Dolph_Ziggler",
+    "reknown":"Show Off",
+    "bio":"Despite his penchant for irony, Ziggler found himself squarely in the favor of the fans week in and week out, who helped power him through the glass ceiling and into the championship picture, racking up World Heavyweight, Intercontinental and United States Championship reigns along the way, as well as two appearances as the Sole Survivor of a Traditional Survivor Series Elimination Match. And since the WWE Brand Extension, The Showoff has made it his personal mission on SmackDown to prove he still has what it takes to be the best."
+  },
+    {
+    "name":"Eva Marie",
+    "shortname":"Eva_Marie",
+    "reknown":"All Red Everything",
+    "bio":"This red-headed wonder hasn’t stopped for a single second since her debut, and she hasn’t cared who she polarizes in the process. Stirring up controversy on “Total Divas” didn’t even stop her from training independently with former WWE Tag Team Champion “The” Brian Kendrick for a career-altering run down in WWE NXT that is just beginning to bear fruit. Career-altering, that is, both for her and anyone who thinks this red-headed runway vet is anything resembling a pushover."
+  },
+    {
+    "name":"Fandango",
+    "shortname":"Fandango",
+    "reknown":"Fahn-DAHN-Go",
+    "bio":"First introduced in vignettes that showed him moving seductively in a nightclub with a gorgeous woman, Fandango made it clear that he’s not interested in following typical WWE trends. When this nimble competitor is in the spotlight, he leads, most notably in his in-ring debut at WrestleMania 29, and a defeat of Chris Jericho that still ranks as one of the greatest upsets in sports-entertainment history. Don’t mistake Fandango’s light feet for a soft touch. At 6-foot-4, with a 244-pound build and Tyler Breeze by his side forming the tag team Breezango, the performer is more than capable of busting a move."
+  },
+    {
+    "name":"Heath Slater",
+    "shortname":"Heath_Slater",
+    "reknown":"The One-Man Band",
+    "bio":"Fueled by a mouth that never stops running and arrogance as scorching as the shock of red hair on his head, Heath Slater certainly lives up to his self-imposed moniker, “The One-Man Band.” Slater went where the music took him, baby, collaborating with the likes of 3MB and Titus O’Neil to stay a steady presence in WWE’s tag team division, while also making it a point to take on any Legends that came across his path. He even tagged up with Rhyno to become one-half of the first-ever SmackDown Tag Team Champions while earning a SmackDown contract in the process."
+  },
+    {
+    "name":"Jack Swagger",
+    "shortname":"Jack_Swagger",
+    "reknown":"We The People",
+    "bio":"We hold these truths to be self-evident, that all men are created equal, that they are endowed with certain unalienable rights that among these are Life, Liberty and the pursuit of Happiness. As well as the knowledge that crossing Jack Swagger will lead to certain, painful defeat. Swagger is the result of a Hadron collision between charisma, arrogance, pure American power and God-gifted wrestling ability. He grew up enamored with sports-entertainment greats Danny Hodge and 'Dr. Death' Steve Williams, both of whom would personally help the Superstar on his career path."
+  },
+    {
+    "name":"James Ellsworth",
+    "shortname":"James_Ellsworth",
+    "reknown":"Any man with two hands has a fighting chance.",
+    "bio":"James Ellsworth isn’t the biggest guy in WWE. He isn’t the strongest guy. However, he is living proof of his own mantra —any man with two hands has a fighting chance. Initially trotted out as chum, Ellsworth soon found himself in the land of opportunity on SmackDown. By any reckoning, James Ellsworth doesn’t look like the kind of man you’d expect to be a WWE Superstar. He doesn’t need any kind of preordained success story to make his mark. Just give him a ring, long odds and his two hands. He’ll take care of the rest. "
+  },
+    {
+    "name":"John Cena",
+    "shortname":"John_Cena",
+    "reknown":"Mr. Hustle Loyalty and Respect",
+    "bio":"He’s a 16-time World Champion, five-time U.S. Champion and record-setting Make-A-Wish granter. He’s released a hit album, starred in blockbuster movies, and — more than a decade into his WWE tenure — he hasn’t slowed down a step. If you really can’t see John Cena at this point, chances are you simply aren’t looking. Sure, a few detractors might chant 'Cena sucks', but for John Cena, rising above hate is just part of the job description, and he’s still making camp on the mountaintop waiting for someone to take a swing."
+  },
+    {
+    "name":"Kalisto",
+    "shortname":"Kalisto",
+    "reknown":"Lucha!",
+    "bio":"Blink and you’ll miss Kalisto, a hybrid Superstar who has always felt destined for big things. Born in Chicago, but raised in Mexico City, this luchador has been both a student and innovator of sports-entertainment since the first time he laced up his boots. The self-styled Dragon has truly taken flight towards greatness and continues to move closer to WWE lore every time he steps in the ring. What will he do next? Don’t blink or you just might miss it. "
+  },
+    {
+    "name":"Kane",
+    "shortname":"Kane",
+    "reknown":"Big Red Machine",
+    "bio":"At 7 feet tall and weighing in at more than 300 pounds, Kane is a monstrous abomination that seems to have been extracted directly from your childhood nightmares. Consumed by an infernal desire to set ablaze the lives of his fellow Superstars, Kane leaves a scorched path of destruction behind his fiery footsteps. Some of The Big Red Machine’s more demented acts have included, hitting a WWE executive with a Tombstone, kidnapping too many Superstars to mention and forcing a WWE Diva to marry him. No one is safe from his twisted desires and demonic impulses."
+  },
+    {
+    "name":"Luke Harper",
+    "shortname":"Luke_Harper",
+    "reknown":"YEAH YEAH YEAH!",
+    "bio":"Strong, erratic and strange, Luke Harper doesn’t say much, but when he does, it’s with a purpose. With unbridled fury in his eyes, Harper possesses incredible speed for someone his size, combined with an unforgiving ruthlessness better suited to a butcher than a WWE Superstar. Harper has waged war in the tag team division, in singles competition and as a member of the feared Wyatt Family. No matter what his allegiance, his gaze never wanders. He sees the evil in you, he sees the weakness, and one way or another, you will feel his pain. "
+  },
+    {
+    "name":"Maryse",
+    "shortname":"Maryse",
+    "reknown":"Pourquio?",
+    "bio":"The stunning Maryse first broke onto the scene as a finalist in the 2006 Diva Search competition. A crafty and determined athlete from the start, Maryse rose through the ranks and created an impressive in-ring resumé. In addition to becoming the first two-time Divas Champion, the Montreal, Quebec, battler held that prize for 216 days in a single reign. The ultra-dangerous Superstar returned in April 2016 to help her husband, The Miz, capture his fifth Intercontinental Championship."
+  },
+    {
+    "name":"Mickie James",
+    "shortname":"Mickie_James",
+    "reknown":"La Luchadora",
+    "bio":"Throughout much of Mickie James’ WWE career, there are some who considered her a peppy, energetic sweetheart. But she’s proven to be as dangerous in the ring as any that came before her. Mickie has captured five Women’s Championships, and at one point, become the second Superstar to hold both the Women’s and the Divas Titles simultaneously. Don’t be fooled from what you hear. Behind that peppy façade is one of the most dangerous and gifted Superstars around."
+  },
+    {
+    "name":"Mojo Rawley",
+    "shortname":"Mojo_Rawley",
+    "reknown":"Hype Bro!",
+    "bio":"Passion, perseverance and pride are the three words Mojo Rawley lives by. Mojo brings intensity to the ring that few can match all while wearing an infectious smile on his face. He is, in a word, hyped. Pushing the boundaries of every muscle in his body and brain, Mojo shattered countless records in strength and speed, and even earned his MBA degree the young age of 23. When Mojo reaches peak hype, there is only one thing he can do: Reach a new peak."
+  },
+    {
+    "name":"Naomi",
+    "shortname":"Naomi",
+    "reknown":"Feel The Glow",
+    "bio":"Naomi first turned heads as a dancer for the NBA's Orlando Magic and hip-hop stars like Flo Rida. These talents would take her to be a contestant on WWE NXT. Naomi has had a series of remarkable runs as both fan-favorite and corner-cutting villain, doggedly pursuing the Divas Championship for the better part of a year and cementing her status as a ring general by heading up the attitude-filled Team B.A.D. of Tamina and Sasha Banks during the Divas Revolution of 2015. Most recently, she's been feeling the Glow on SmackDown. "
+  },
+    {
+    "name":"Natalya",
+    "shortname":"Natalya",
+    "reknown":"The Queen of Harts",
+    "bio":"Natalya's combination of talent and untamed desire continues to make her family proud and upholds the Hart tradition in WWE. She is the daughter of Jim “The Anvil” Neidhart, which explains her tough, forceful in-ring style that perfectly complements her mat ingenuity. The Queen of Harts also evokes her uncle Bret “Hit Man” Hart by driving many of her opponents to submission via the Sharpshooter. The WWE Universe always assumed it would take a man of tremendous ability to live up to the legendary legacy of the pink and black. As it turned out, it’s doing just fine in this woman’s hands."
+  },
+    {
+    "name":"Nikki Bella",
+    "shortname":"Nikki_Bella",
+    "reknown":"Fearless",
+    "bio":"If there’s a barrier to be broken or an accolade to be earned, Nikki Bella has done it, and done it with style. Nikki cementing herself as the division’s mean-girl powerhouse and earning a Divas Title reign that lasted a record-setting 301 days. Now, as a pivotal member of the SmackDown roster, Nikki continues to test the limits of competition in a complete and total Fearless fashion. Write her off if you must, but do so at your own peril, because when it comes to separating the contenders from the pretenders, rest assured Nikki Bella is the real deal. "
+  },
+    {
+    "name":"Randy Orton",
+    "shortname":"Randy_Orton",
+    "reknown":"The Viper",
+    "bio":"Most kids remember their first ball game or school play; Orton’s childhood memories include sitting in the kitchen of his family’s St. Louis home with “Rowdy” Roddy Piper and Greg “The Hammer” Valentine, and repairing a broken banister. Friend and foe alike have felt the sting of his RKO or the boom of his dreaded punt, and well into his second decade as a WWE Superstar, there’s no telling who comes next. That’s what you get with Randy Orton: Safety is never guaranteed, alliances are made to be broken, and destruction can come from out of nowhere.  "
+  },
+    {
+    "name":"Rhyno",
+    "shortname":"Rhyno_pro",
+    "reknown":"The Man Beast",
+    "bio":"Built as tough as an American-made automobile, The Man Beast from Detroit has had more than a few crash tests in the squared circle. Now, Rhyno is on SmackDown to show he can hang with The New Era. The Man Beast would follow up that blockbuster match by becoming a huge free agent signing to SmackDown, and becoming one-half of the first-ever SmackDown Tag Team Champions alongside Heath Slater."
+  },
+    {
+    "name":"Shane McMahon",
+    "shortname":"Shane_McMahon",
+    "reknown":"Shane-O-Mac",
+    "bio":"Born with sports-entertainment in his blood, SmackDown Commissioner Shane McMahon has thrilled the WWE Universe with his daredevil decisions both in and out of the ring. There’s no doubt that Shane McMahon inherited his father’s entrepreneurial spirit. However, he put a modern twist on it. He eschewed a suit and tie for a more casual look, not unlike contemporary moguls like Mark Cuban. His flamboyant, cocky attitude could be both endearing and irritating."
+  },
+    {
+    "name":"The Miz",
+    "shortname":"The_Miz",
+    "reknown":"¡Awesome!",
+    "bio":"First introduced to TV audiences as one of the seven strangers on “The Real World: Back to New York,” The Miz parlayed his reality TV fame into a legitimate WWE career. It’s been a parade of one accolade after another for WWE’s self-proclaimed A-lister. The main event of WrestleMania, the Intercontinental Championship, the WWE Tag Team Titles and several starring film and television roles later, and The Miz still had enough clout left over to snag his own talk show, “Miz TV.” "
+  },
+    {
+    "name":"The Usos",
+    "shortname":"TheUsos",
+    "reknown":"UCE!",
+    "bio":"The Usos began each match by approaching the ring performing the Siva Tau, a traditional Samoan war dance meant to strike fear in their opponents. While embracing that aspect of their heritage, Jimmy and Jey have been determined to show the WWE Universe a more modern representation of their family. With their recent mood swings, they have ditched their Samoan attire and began wrestling in street clothes. There’s no telling how high The Usos will soar, but the future is there for the taking."
+  },
+  {
+    "name":"Tyler Breeze",
+    "shortname":"Tyler_Breeze",
+    "reknown":"Prince Pretty",
+    "bio":"A picture is worth a thousand words, but Tyler Breeze is only concerned with one: Gorgeous. Always up for a photo op, Breeze regularly embraces a new opportunity to snap a picture of himself. A rabid fighter, Breeze never misses an opportunity to apply his pristine craft and leave his opponents black and blue in the process. Now, Breeze is more than just a pretty face — and with Fandango by his side as the tag team Breezango, he’s a threatening one, too."
+  },
+  {
+    "name":"Zack Ryder",
+    "shortname":"Zack_Ryder",
+    "reknown":"Woo Woo Woo!",
+    "bio":"Some Superstars wait their entire careers for an opportunity to come along. Zack Ryder went out and created his own. Knowing he had more to offer, he took a Flip cam and some ingenuity and created “Z! True Long Island Story.” Debuting on YouTube in February 2011, the show quickly became a sensation, racking up viewer upon viewer each week. Ryder remains the definition of a 21st century Superstar. He created his own opportunity and fanned the flames of popular opinion all on his own."
+  }
+]}
